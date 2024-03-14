@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sangyoon Lee</title>
-    <link>https://example.org/tags/</link>
+    <link>https://lyunm1206.github.io/tags/</link>
     <description>Recent content in Tags on Sangyoon Lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>lyunm1206@gmail.com (Sangyoon Lee)</managingEditor>
     <webMaster>lyunm1206@gmail.com (Sangyoon Lee)</webMaster>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lyunm1206.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CVPR</title>
-      <link>https://example.org/tags/cvpr/</link>
+      <link>https://lyunm1206.github.io/tags/cvpr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>lyunm1206@gmail.com (Sangyoon Lee)</author>
-      <guid>https://example.org/tags/cvpr/</guid>
+      <guid>https://lyunm1206.github.io/tags/cvpr/</guid>
       <description></description>
     </item>
     <item>
       <title>Paper</title>
-      <link>https://example.org/tags/paper/</link>
+      <link>https://lyunm1206.github.io/tags/paper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>lyunm1206@gmail.com (Sangyoon Lee)</author>
-      <guid>https://example.org/tags/paper/</guid>
+      <guid>https://lyunm1206.github.io/tags/paper/</guid>
       <description></description>
     </item>
   </channel>
